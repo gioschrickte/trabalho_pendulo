@@ -1,3 +1,7 @@
+Massa da bola: 126g ± 0,5
+Largura do barbante: 78,86cm ± 0,74
+
+
 # Resultados do pêndulo:
 
 A = 80,71 pixels
