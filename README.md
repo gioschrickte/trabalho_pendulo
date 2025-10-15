@@ -1,4 +1,5 @@
 Massa da bola: 126g ± 0,5
+
 Largura do barbante: 78,86cm ± 0,74
 
 
